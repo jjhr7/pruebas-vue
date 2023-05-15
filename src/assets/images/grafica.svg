@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EBECF5;}
+	.st1{display:none;fill:none;}
+	.st2{display:none;fill:#EBECF5;}
+	.st3{display:none;}
+	.st4{fill:url(#SVGID_1_);}
+</style>
+<g id="Capa_1">
+	<path class="st0" d="M861.8,668.6C797.7,809.1,656,906.7,491.6,906.7C267,906.7,84.9,724.6,84.9,500S267,93.3,491.6,93.3
+		c85.1,0,164.2,26.2,229.5,70.9L491.6,500L861.8,668.6z"/>
+	<polygon class="st1" points="500,500.5 725.2,37.6 1019.2,218.2 1117.7,691.4 935.6,880.9 986.4,612.3 	"/>
+	<path class="st2" d="M968.7,500c0,69.3-15,135.1-42.1,194.3L500,500l264.5-387h0C887.8,197.5,968.7,339.3,968.7,500z"/>
+	<path class="st2" d="M1044.6,167.5l-59.7,541.8l-58.3-15c27-59.2,42.1-125,42.1-194.3c0-160.7-80.9-302.5-204.2-387L1044.6,167.5z"
+		/>
+</g>
+<g id="Capa_3" class="st3">
+</g>
+<g id="Capa_2">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="658.6572" y1="584.4578" x2="945.2421" y2="297.8729">
+		<stop  offset="1.322751e-03" style="stop-color:#FC5284"/>
+		<stop  offset="0.101" style="stop-color:#FA538A"/>
+		<stop  offset="0.2353" style="stop-color:#F4559B"/>
+		<stop  offset="0.3887" style="stop-color:#EA58B7"/>
+		<stop  offset="0.4692" style="stop-color:#E45AC9"/>
+		<stop  offset="0.5571" style="stop-color:#E55CC4"/>
+		<stop  offset="0.6665" style="stop-color:#E961B4"/>
+		<stop  offset="0.7874" style="stop-color:#F0689B"/>
+		<stop  offset="0.9156" style="stop-color:#F87478"/>
+		<stop  offset="0.9987" style="stop-color:#FF7C5D"/>
+	</linearGradient>
+	<path class="st4" d="M546.2,481.6l229.1-336.2c0,0,271.5,178,140.7,504.4L546.2,481.6z"/>
+</g>
+</svg>

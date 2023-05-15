@@ -1,0 +1,13 @@
+.main-registro{
+    margin-top: 80px;
+    height: calc(100vh - 180px);   
+    width: 100%;
+    display: flex;
+    
+}
+
+.footer {
+    height: 10rem;
+    width: 100vw;
+    background-color: #1a2130;
+}
