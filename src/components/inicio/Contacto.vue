@@ -25,7 +25,6 @@
                     </article>
                 </div>
 
-                <img class="dots" id="lineas1" src="../../assets/images/lineas.svg" alt="">
             </section>
   </div>
 </template>
