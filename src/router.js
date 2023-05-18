@@ -17,6 +17,21 @@ const routes = [
         name: "home",
         component: require("./pages/Home").default,
       },
+      {
+        path: "/tareas",
+        name: "tareas",
+        component: require("./pages/Tareas").default,
+      },
+      {
+        path: "/equipo",
+        name: "equipo",
+        component: require("./pages/Equipo").default,
+      },
+      {
+        path: "/usuarios",
+        name: "usuarios",
+        component: require("./pages/Usuarios").default,
+      }
     ],
   },
   {
