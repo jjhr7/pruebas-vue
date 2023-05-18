@@ -8,13 +8,27 @@
 
       <div class="rui-page-content">
         <div class="container-fluid">
-          <SesionActua/>
-          <UltimaSesion/>
-          <TareasPendientes/>
-          <PlanificacionSemanal/>
+
+            <div class="row">
+              <div class="col-4">
+              <SesionActua/>
+              </div>
+              <div class="col-4">
+              <UltimaSesion/>
+              </div>
+              <div class="col-4">
+              <TareasPendientes/>
+              </div>
+              </div>
+
+              <div class="row">
+              <div class="col-12">
+              <PlanificacionSemanal/>
+              </div>
+            </div>
+
         </div>
       </div>
-
   </div>
 </template>
 <script>
