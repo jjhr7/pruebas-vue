@@ -1,6 +1,4 @@
 <template>
-  <div class="row vertical-gap">
-    <div class="col-sm-4">
       <div class="tarjeta-main tarjeta-planificacion">
         <h2 class="tarjeta-main-h2">Planificación semanal</h2>
         <a href="index.html" class="ver-mas">Ver más ></a>
@@ -16,8 +14,6 @@
             </div>
         </div>
       </div>
-    </div>
-  </div>
 </template>
 
 <script>
