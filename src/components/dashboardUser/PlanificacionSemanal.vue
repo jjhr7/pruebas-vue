@@ -3,7 +3,6 @@
         <h2 class="tarjeta-main-h2">Planificación semanal</h2>
         <a href="index.html" class="ver-mas">Ver más ></a>
         <div class="rui-widget rui-widget-chart div-semanal">
-
             <div class="dia-semanal">
               <div class="tarjeta-semanal dia-completado">
                   <h3>Ver más</h3>
