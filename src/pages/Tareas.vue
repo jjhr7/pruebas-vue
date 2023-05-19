@@ -7,7 +7,11 @@
     </div>
     <div class="rui-page-content">
       <div class="container-fluid">
-        <Pendientes/>
+        <div class="row">
+            <Pendientes/>
+            <EnProceso/>
+            <Terminado/>
+        </div>
       </div>
     </div>
   </div>
@@ -15,11 +19,13 @@
 <script>
 import tareas from "../assets/css/tareas.css";
 import Pendientes from '../components/tareas/Pendientes.vue';
+import EnProceso from '../components/tareas/EnProceso.vue';
+import Terminado from '../components/tareas/Terminado.vue';
 
 export default {
   name: "Tareas",
   components:{
-    Pendientes
+    Pendientes, EnProceso, Terminado
   },
   data() {
     return {};

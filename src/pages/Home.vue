@@ -29,7 +29,7 @@
   </div>
 </template>
 <script>
-
+import dashboardUser from "../assets/css/dashboard.css";
 import SesionActua from '../components/dashboardUser/SesionActual.vue';
 import UltimaSesion from '../components/dashboardUser/UltimaSesion.vue';
 import TareasPendientes from '../components/dashboardUser/TareasPendientes.vue';

@@ -1,8 +1,8 @@
 <template>
- <section class="task-list">
-      <h2>En proceso</h2>
+  <section class="task-list">
+      <h2>Terminado</h2>
       <div class="task-div">
-        <ul id="en-proceso" class="task-list-div">
+        <ul id="terminado" class="task-list-div">
             <!-- Tarea -->
             <li class="tarea">
               <!-- Tipos de tarea -->
@@ -24,7 +24,7 @@
 <script>
 
 export default {
-  name: "EnProceso",
+  name: "Terminado",
   data() {
     return {};
   },
