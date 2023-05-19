@@ -7,15 +7,20 @@
     </div>
     <div class="rui-page-content">
       <div class="container-fluid">
-
+        <Pendientes/>
       </div>
     </div>
   </div>
 </template>
 <script>
+import tareas from "../assets/css/tareas.css";
+import Pendientes from '../components/tareas/Pendientes.vue';
 
 export default {
   name: "Tareas",
+  components:{
+    Pendientes
+  },
   data() {
     return {};
   },
