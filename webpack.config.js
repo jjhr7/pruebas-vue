@@ -48,7 +48,16 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     noInfo: true,
-    overlay: true
+    overlay: true,
+    proxy: {
+      '/api': {
+        target: 'http://vmi621282.contaboserver.net/api/v1/', // URL de tu servidor API remoto
+        changeOrigin: true,
+        pathRewrite: {
+          '^/api': ''
+        }
+      }
+    }
   },
   performance: {
     hints: false
